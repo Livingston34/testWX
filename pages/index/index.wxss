@@ -1,4 +1,1 @@
 /**index.wxss**/
-.flex-view-item {
-  flex: 1;
-}
